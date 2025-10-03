@@ -6,6 +6,7 @@ import os
 import pickle
 import argparse
 from tqdm import tqdm
+from typing import List, Tuple
 
 class ContextNeighborStorage:
     def __init__(self, sentences, model, tokenizer=None):
@@ -16,14 +17,26 @@ class ContextNeighborStorage:
         else:
             self.tokenizer = tokenizer
 
-    def load_precomputed_embeddings(self):
+    def load_precomputed_embeddings(self) -> None:
+        """
+        Load pre_computed embeddings from 'lookup/normed_embeddings.pickle'. Saves some time and compute if you've already computed embeddings for a large corpus.
+
+        Returns:
+            None
+        """
         filename = 'lookup/normed_embeddings.pickle'
         if os.path.exists(filename):
             with open(filename, 'rb') as file:
                 # Serialize and dump the object into the file
                 self.normed_embeddings = pickle.load(file)
 
-    def load_sentence_ids(self):
+    def load_sentence_ids(self) -> None:
+        """
+        Load sentence ids from 'lookup/sentence_ids.pickle'. Mostly a helper function, really no point to call alone.
+
+        Returns:
+            None
+        """
         filename = 'lookup/sentence_ids.pickle'
         if os.path.exists(filename):
             with open(filename, 'rb') as file:
@@ -32,7 +45,14 @@ class ContextNeighborStorage:
         else:
             print(f"File '{filename}' does not exist.")
 
-    def load_token_ids(self):
+    def load_token_ids(self) -> None:
+        """
+        Load token ids from 'lookup/token_ids.pickle'. Mostly a helper function, really no point to call alone.
+
+        Returns:
+            None
+        """
+        
         filename = 'lookup/token_ids.pickle'
         if os.path.exists(filename):
             with open(filename, 'rb') as file:
@@ -41,7 +61,13 @@ class ContextNeighborStorage:
         else:
             print(f"File '{filename}' does not exist.")
 
-    def load_all_tokens(self):
+    def load_all_tokens(self) -> None:
+        """
+        Load all tokens tokenized from te corpus from 'lookup/all_tokens.pickle'. Mostly a helper function, really no point to call alone.
+
+        Returns:
+            None
+        """
         filename = 'lookup/all_tokens.pickle'
         if os.path.exists(filename):
             with open(filename, 'rb') as file:
@@ -50,7 +76,13 @@ class ContextNeighborStorage:
         else:
             print(f"File '{filename}' does not exist.")
 
-    def load_sentences(self):
+    def load_sentences(self) -> None:
+        """
+        Load text sentences from 'lookup/setences.pickle'. It's kind of redundant; you should have the text corpus anyways.
+
+        Returns:
+            None
+        """
         filename = 'lookup/sentences.pickle'
         if os.path.exists(filename):
             with open(filename, 'rb') as file:
@@ -59,7 +91,13 @@ class ContextNeighborStorage:
         else:
             print(f"File '{filename}' does not exist.")
 
-    def process_sentences(self):
+    def process_sentences(self) -> None:
+        """
+        Preprocess sentences and store all relevant artifacts into respective pickle files (I love that it's called pickling). This process includes tokenization, calculating embeddings from your desired AutoModel, normalzing those embeddings, and saving them.
+
+        Returns:
+            None
+        """
 
         si_filename = 'lookup/sentence_ids.pickle'
         ti_filename = 'lookup/token_ids.pickle'
@@ -153,11 +191,36 @@ class ContextNeighborStorage:
         else:
             print(f"File '{filename}' already exists. Skipping writing to avoid overwriting.")
 
-    def build_search_index(self):
-        # this takes some time
+    def build_search_index(self) -> None:
+        """
+        Builds the KDTree from self.normed_embeddings
+
+        Returns:
+            None
+        """
         self.indexer = KDTree(self.normed_embeddings)
 
-    def query(self, query_sent, query_word, k=10, filter_same_word=True):
+    def query(
+            self,
+            query_sent : str,
+            query_word : str,
+            k :int = 10,
+            filter_same_word : bool = True) -> Tuple[List[float], List[str], List[str]]:
+        """
+        Query the built KDTree with a desired word to find semantic neighbors for and a sentence to provide context.
+
+        Args:
+            query_sent (str): Sentence providing context for the target word.
+            query_word (str): Target word.
+            k (int): How many neighbors to search for
+            filter_same_word (bool): Whether or not you want to filter out the same word (likely in slightly different contexts, but it will prevent return of the same token).
+
+        Returns:
+        Tuple[List[float], List[str], List[str]]: 
+            - distances: List of floats representing distances of the neighbors from the target word.
+            - neighbors: List of strings representing the found neighboring tokens.
+            - contexts: List of strings representing contexts in which the semantic neighbors were found.
+        """
         inputs_raw = tokenizer(query_sent, padding=True, truncation=True, return_tensors='pt')
         input_ids = inputs_raw['input_ids'].squeeze().tolist()  # Convert tensor to list
         tokens = tokenizer.convert_ids_to_tokens(input_ids)
@@ -173,7 +236,7 @@ class ContextNeighborStorage:
                 found = True
                 break
         if not found:
-            raise ValueError('The query word {} is not a single token in sentence {}'.format(query_word, toks))
+            raise ValueError('The query word {} is not a single token in sentence {}. You might want to try feeding in the first or last token of the target word.'.format(query_word, toks))
         emb = emb / sum(emb ** 2) ** 0.5
         initial_k = k
         di, idx = self.indexer.query(emb.reshape(1, -1), k=initial_k)
@@ -191,7 +254,26 @@ class ContextNeighborStorage:
                 break
         return distances, neighbors, contexts
 
-    def direct_query(self, average_embedding, word, k=10, filter_same_word=True):
+    def direct_query(self,
+        average_embedding : np.ndarray,
+        word : str,
+        k : int = 10,
+        filter_same_word : bool = True):
+        """
+        Query the built KDTree with a desired word to find semantic neighbors for and a sentence to provide context.
+
+        Args:
+            average_embedding (np.ndarray): Averaged, non-normalized embedding representing a particular word from various contexts.
+            word (str): Target word for display purposes.
+            k (int): How many neighbors to search for
+            filter_same_word (bool): Whether or not you want to filter out the same word (likely in slightly different contexts, but it will prevent return of the same token).
+
+        Returns:
+        Tuple[List[float], List[str], List[str]]: 
+            - distances: List of floats representing distances of the neighbors from the target word.
+            - neighbors: List of strings representing the found neighboring tokens.
+            - contexts: List of strings representing contexts in which the semantic neighbors were found.
+        """
         average_embedding = (average_embedding / sum(average_embedding ** 2) ** 0.5).T
         initial_k = k
         di, idx = self.indexer.query(average_embedding.reshape(1, -1), k=initial_k)
@@ -210,7 +292,10 @@ class ContextNeighborStorage:
         return distances, neighbors, contexts
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
+    parser = argparse.ArgumentParser(
+        prog = "Semantic Pair Generator",
+        description = "Given a set of sentences and target words and a corpus, computes embeddings for the words in context and searches the corpus for tokens similar in meaning (on the basis of distance in the embedding space)."
+    )
 
     parser.add_argument("sentences_file", type=str)
     parser.add_argument("word_file", type=str)
