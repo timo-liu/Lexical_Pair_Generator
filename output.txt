@@ -1,108 +1,48 @@
-abstract	abstract_adj-nou	##istic	5168	May 28th at 12:18 pmThe minimalistic style is great, but I really like how Kenan Malik at Pandaemonium leveraged the Gridspace theme for his site.
-abstract	abstract_adj-nou	##ism	2905	His books, inspired by philosophy, literature and Surrealism, come in varied graphic and stylistic forms.
-abstract	abstract_adj-nou	visual	8419	This enabled her to support herself while also secretly pursuing her craft as a visual artist, in earnest, for decades.
-abstract	abstract_adj-nou	minimal	5168	May 28th at 12:18 pmThe minimalistic style is great, but I really like how Kenan Malik at Pandaemonium leveraged the Gridspace theme for his site.
-abstract	abstract_adj-nou	artistic	2600	Graphic wrapping paper makes great looking artistic paper collages.
-abstract	abstract_adj-nou	##istic	9549	While the interplay between his inspirations is impressionistic (you have to mine interviews and press materials to explicitly uncover Barnes’ inspirations) the tension created by the music is easy to grasp.
-abstract	abstract_adj-nou	artist	8419	This enabled her to support herself while also secretly pursuing her craft as a visual artist, in earnest, for decades.
-abstract	abstract_adj-nou	conceptual	1769	Daniel Coyle has woven observations from brain research, behavioral research, and real-world training into a conceptual tapestry of genuine importance.
-abstract	abstract_adj-nou	visual	4670	I’ve started working on a side project in cartooning and illustration – partly because I believe many ideas are better communicated with a combination of text and visual elements.
-abstract	abstract_adj-nou	graphic	2905	His books, inspired by philosophy, literature and Surrealism, come in varied graphic and stylistic forms.
-abstract	abstract_adj-nou	imagery	6165	Readers will discover, step-by-step, how Geninne selects her materials and then creates her personal imagery.
-abstract	abstract_adj-nou	stylistic	2905	His books, inspired by philosophy, literature and Surrealism, come in varied graphic and stylistic forms.
-abstract	abstract_adj-nou	painting	7420	The French painter Pierre Bonnard (1867-1947) dabbled in most of the 20th century’s major painting movements — including Cubism, Fauvism and Surrealism.
-abstract	abstract_adj-nou	art	5922	Over time, Guetta infiltrated the graffiti and street art scene in Los Angeles, befriending and other prominent figures.
-abstract	abstract_adj-nou	aesthetic	7823	The prints highlight Murakami’s Superflat aesthetic, a style he pioneered taking cues from the flatness of traditional Edo-period woodblock prints and drawing on the socio-political climate of post-war Japan.
-abstract	abstract_adj-nou	##ist	2198	Expert Advice: How to Become a Minimalist, by the Author of “Goodbye, Things”
-abstract	abstract_adj-nou	creative	8705	Through the course of 14 interconnected tracks, Soul Science Lab present a collective vision of black art and culture that expresses the diversity and interconnectedness of African creative thought throughout the diaspora.
-abstract	abstract_adj-nou	impression	4421	It’s an impressionistic mood piece, shot in black and white and heavily influenced by the rhythms of the French New Wave, but it also showcases a winning combination of Baumbach’s cutting sarcasm and Gerwig’s dorky optimism.
-abuse	abuse_nou	violence	4320	It is our sincere hope that by increasing understanding and awareness of domestic violence we will improve societal responses to, and increase protection for, women and children affected by abuse.
-abuse	abuse_nou	violence	5201	McMurphy also reported that police arrested Smith in 2015 on domestic violence charges in Powell, Ohio.
-abuse	abuse_nou	violence	7561	The latter documented widespread gender-based violence in the wake of the ; the former insisted that men can just lean into not being misogynists and we’ll all be fine.
-abuse	abuse_nou	harassment	7438	The German Theater and Orchestra Association has released a code of conduct that aims to prevent sexual harassment and abuses of power.
-abuse	abuse_nou	assault	5286	Moreover, there's no evidence that nondiscrimination laws — and other policies that also let trans people use the bathroom for their gender identity — lead to sexual assault in bathrooms and locker rooms.
-abuse	abuse_nou	violence	913	Attempting to control the behaviour of someone through acts and threats of violence infringes on their human rights.
-abuse	abuse_nou	rape	945	Attorneys negotiated the price cut as more rape and other sexual misconduct allegations surfaced against Weinstein.
-abuse	abuse_nou	violence	4507	It's not just about the physical violence, it's about the post-traumatic violence and the societal violence and the violences of our stories.
-abuse	abuse_nou	misconduct	945	Attorneys negotiated the price cut as more rape and other sexual misconduct allegations surfaced against Weinstein.
-abuse	abuse_vrb	having	3994	In the early 2000’s, Greer was accused of having an inappropriate relationship with a female teenager, but no charges were ever brought forward after the Manatee County Sheriff’s Office investigated the claims.
-abuse	abuse_vrb	violence	5201	McMurphy also reported that police arrested Smith in 2015 on domestic violence charges in Powell, Ohio.
-abuse	abuse_vrb	an	3994	In the early 2000’s, Greer was accused of having an inappropriate relationship with a female teenager, but no charges were ever brought forward after the Manatee County Sheriff’s Office investigated the claims.
-abuse	abuse_vrb	drink	1285	But if they don’t drink the alcohol or they drink very little, they’ll probably be OK.
-abuse	abuse_vrb	addiction	7013	That led to more than a dozen stints in rehab, one of which ultimately resulted in an addiction to prescription meds.
-abuse	abuse_vrb	##ing	6496	She talks her out of binging.
-abuse	abuse_vrb	addiction	6449	She had a thriving career for many years before she lost her battle with addiction.
-abuse	abuse_vrb	drug	4305	It is highly and can be transmitted through sexual intercourse as well as by sharing needles (drug abusers).
-abuse	abuse_vrb	misconduct	945	Attorneys negotiated the price cut as more rape and other sexual misconduct allegations surfaced against Weinstein.
-abuse	abuse_vrb	under	5486	No one wanted to be around me; my friends, sick of my increasingly embarrassing behavior while under the influence, stopped inviting me out (and eventually stopped calling altogether).
-abuse	abuse_vrb	drink	7501	The initial glass caused a rush of energy, and as I continued to drink milk over the course of a week I realized that drinking a glass of milk curbed my cravings for coffee.
-abuse	abuse_vrb	drug	891	At first, his drug habit proves a possible lead.
-abuse	abuse_vrb	sexual	945	Attorneys negotiated the price cut as more rape and other sexual misconduct allegations surfaced against Weinstein.
-abuses	abuses_nou	harassment	7438	The German Theater and Orchestra Association has released a code of conduct that aims to prevent sexual harassment and abuses of power.
-abuses	abuses_nou	violence	2860	He should consider economic concessions in exchange for help ridding his nation of mass drug violence.
-abuses	abuses_nou	##inatory	6744	So saying that we see certain abortions as discriminatory and we want to prohibit those.
-abuses	abuses_nou	abused	9872	“You include an item (cheese) that requires beings to be sexually abused and babies murdered!
-abuses	abuses_nou	mistakes	179	A functioning press and democracy require criticism, transparency, and consequences for journalistic mistakes.
-abuses	abuses_nou	cruel	755	As children continue to be ripped away from their parents by Donald Trump’s cruel immigration policies, his administration has made it a point to place blame on Democrats, Congress, and just about everyone other than Trump and his cronies.
-abuses	abuses_nou	discrimination	2508	Gessen traces the grim story of Birobidzhan, a region in the desolate Soviet Far East where Jews were granted autonomy and an opportunity to escape their harsh existence of poverty, discrimination, terror, and ‘non belonging’ in Soviet Russia.
-abuses	abuses_nou	violence	7561	The latter documented widespread gender-based violence in the wake of the ; the former insisted that men can just lean into not being misogynists and we’ll all be fine.
-abuses	abuses_nou	violence	4320	It is our sincere hope that by increasing understanding and awareness of domestic violence we will improve societal responses to, and increase protection for, women and children affected by abuse.
-abuses	abuses_nou	violence	4455	It’s easier in theory to address root causes when the threat is private violence, since the US can expect support rather than resistance from the government.
-abuses	abuses_nou	restrictions	5232	Menstruation is considered impure in many parts of South Asia and restrictions are imposed on women’s movement, behavior and eating habits during their periods.
-abuses	abuses_nou	oppression	4569	I turn to James Baldwin because he understands anger and disparity and oppression, and his words help center and focus my desire for vengeance into something more dangerous to the powers that be.
-abuses	abuses_nou	harmful	7494	The inability to communicate with anyone, activists said, had harmful effects on the children.
-abuses	abuses_vrb	does	6000	Phillips pays his workers at Penny’s $15 an hour, but does not provide health care because it would cause him to lose money.
-abuses	abuses_vrb	orders	5675	Oliver orders Malcolm to take Curtis, Samantha, Thea and Felicity to a plane somewhere on the island so they are kept out of harm.
-abuses	abuses_vrb	tries	2440	Fredrik lists an infamous Chelsea townhouse with a seller whose reputation for firing brokers precedes her; Ryan entrusts a Park Slope listing to a brand new agent with unorthodox methods; Steve tries a change in strategy with the Circa building.
-abuses	abuses_vrb	moves	142	After his mother is hauled away for crimes such as having an "anti-revolutionary" electric fan, Niu moves in with Ling's family, then is taken away, "re-educated" and returns to denounce Ling's father and have him arrested.
-abuses	abuses_vrb	becomes	7513	Their business becomes predictable, which they and their shareholder love.
-abuses	abuses_vrb	takes	2676	He also takes another dig at Sarah Palin.
-abuses	abuses_vrb	##s	775	As her blonde hair grows out, Kardashian West dyes it a hot pink color for a trip to Tokyo.
-abuses	abuses_vrb	##s	4045	In which a physics professor severely overthinks his daughter's science homework.
-abuses	abuses_vrb	is	142	After his mother is hauled away for crimes such as having an "anti-revolutionary" electric fan, Niu moves in with Ling's family, then is taken away, "re-educated" and returns to denounce Ling's father and have him arrested.
-abuses	abuses_vrb	accepts	222	Alex, against his own judgment and at considerable risk to his honor, accepts Pen’s help to find the spy and protect British interests in India.
-abuses	abuses_vrb	forces	5716	One, a "gruff and big man," forces badgers out of their setts for money or sport, to pit them against hounds.
-abuses	abuses_vrb	##s	4007	In the meantime, he writes about her in his diary and composes really bad love poetry that he will recite to her one day, if he can work up the courage to tell her the truth.
-abuses	abuses_vrb	##s	2914	His main opponent Olivia Crawford, played by Allison Tolman, withdraws her candidacy so that the two can avoid splitting the vote against John Kelly, the white man up for the job.
-abuses	abuses_vrb	seeks	232	All but paralyzed with pain, Mary seeks relief from a New Agey treatment called Pneuma Adaptive Kinesthesia, PAKing for short.
-abuses	abuses_vrb	tries	7324	The Doctor tries to rouse the human side of Robson.
-abuses	abuses_vrb	##s	141	After his brother, Damon Salvatore, betrays him in New Orleans, Stefan starts over in Manhattan.
-abuses	abuses_vrb	asks	5019	Lincoln asks John Hay, his trusted aide—and almost a son—to investigate Willie’s death.
-abuses	abuses_vrb	discovers	2709	He discovers both accounting fraud and industrial espionage run by a mysterious and deadly Middle Eastern assassin known only as Ghostman.
-bass	bass	guitar	5210	Meanwhile, slide guitar master Ry Cooder provides the famous soundtrack, setting scenes on the open road to his plaintive picking.
-bass	bass	guitarist	4660	I’ve had the pleasure of strumming a few songs with Brent and he’s a great guitarist, but this type of blues is something really special.
-bass	bass	guitar	7042	That’s Jack White on guitar.
-bass	bass	slide	5210	Meanwhile, slide guitar master Ry Cooder provides the famous soundtrack, setting scenes on the open road to his plaintive picking.
-bass	bass	guitarist	5362	My favorite female guitarist is Sharon Isbin (sorry Renee!).
-bass	bass	##rum	4660	I’ve had the pleasure of strumming a few songs with Brent and he’s a great guitarist, but this type of blues is something really special.
-bass	bass	##ming	4660	I’ve had the pleasure of strumming a few songs with Brent and he’s a great guitarist, but this type of blues is something really special.
-bass	bass	picking	5210	Meanwhile, slide guitar master Ry Cooder provides the famous soundtrack, setting scenes on the open road to his plaintive picking.
-bass	bass	harmony	7457	The group’s early harmony lessons, their Rastafarian beliefs, the music scene and the producers they worked with, and yes, the ganja they smoked are explained in sparse, accessible language.
-bass	bass	hooks	850	As throwback as that sensibility may be, the band strives to be thoroughly modern, emphasizing rhythms and gargantuan hooks to tightly constructed compositions.
-bass	bass	break	4903	Kool Herc brought the Jamaican DJ style from Kingston to the Bronx, ushering in an era of break dancing and rapping MCs, all set to a thumping, bumping beat.
-bass	bass	rhythms	850	As throwback as that sensibility may be, the band strives to be thoroughly modern, emphasizing rhythms and gargantuan hooks to tightly constructed compositions.
-bass	bass	guitar	2620	GuitarTab - Tabs and chords GuitarTab is a viewer / player for 800000+ free guitar tabs & chords.
-bass	bass	piano	995	Back when I was first learning the piano, I preferred the voice and romance of the violin but all we had was an ancient, Weinstein & Sons upright piano with a cracked sound board.
-bass	bass	sound	4538	It's such a nice mix of classical and hip-hop—a very specific kind of hip-hop—and then all the other sound elements and nuances that help make our story what it is.
-bass	bass	frontman	1139	Blaenavon’s debut dealt in a lot of gloom and sadness – the main hook of single ‘Lets Pray’ found their frontman chanting “Let’s pray for death“, while he pegged himself as “an apathetic pipsqueak” on the title track.
-bass	bass	music	9549	While the interplay between his inspirations is impressionistic (you have to mine interviews and press materials to explicitly uncover Barnes’ inspirations) the tension created by the music is easy to grasp.
-bass	bass	musicians	2525	Getting booed offstage is a rite of passage for new musicians.
-bass	bass_corp	fish	968	Avoid ALL farmed fish and shrimp varieties – period – even if Seafood Watch says they’re a “Best Choice”.
-bass	bass_corp	fish	7001	That freezer would store bag after bag of frozen fish caught by my father, lots of venison and beef that my family would trade for (or, in the case of venison, occasionally hunt for as a food source), frozen vegetables, and countless other food items.
-bass	bass_corp	fish	337	Although it is generally unlawful to possess a bird, mammal, fish, amphibian or reptile that may not be legally sold, in a restaurant or other eating establishment, there are specific exceptions that would apply in your situation.
-bass	bass_corp	shrimp	968	Avoid ALL farmed fish and shrimp varieties – period – even if Seafood Watch says they’re a “Best Choice”.
-bass	bass_corp	tuna	2862	He shows off his skills with sharp spears of fresh tuna, thick fillets of rich mackerel braised in a homemade soy-chili sauce, and chawanmushi, a silky egg and mushroom custard.
-bass	bass_corp	trout	3355	"If trout have difficulty recovering from a catch and are acting lethargic, it's probably time to call it quits for the day."
-bass	bass_corp	fish	362	A mass of fish can be seen dashing out of his way in a desperate bid to escape being next.
-bass	bass_corp	##water	4714	I watched flies knife through the shade of undercut banks, perch on the surface of deep pools and teeter past the wake of submerged logs — pictures that are foreign to a saltwater angler.
-bass	bass_corp	catch	3355	"If trout have difficulty recovering from a catch and are acting lethargic, it's probably time to call it quits for the day."
-bass	bass_corp	##aw	2474	Fry the prawns in medium heat for about 3 minutes.
-bass	bass_corp	fish	6397	Serve the fish with the plantain, salsa and beignets.
-bass	bass_corp	fish	8785	Tokyo Fish has loads of grocery items, as well as a fresh fish counter and pre-made deli foods.
-bass	bass_corp	##ou	5854	Other Pacific Northwest specialties you'll likely see on the menu or complementing dishes include game meats like moose, caribou and elk, wild mushrooms and fresh berry jams.
-bass	bass_corp	mack	2862	He shows off his skills with sharp spears of fresh tuna, thick fillets of rich mackerel braised in a homemade soy-chili sauce, and chawanmushi, a silky egg and mushroom custard.
-bass	bass_corp	seafood	8760	Today, the Gulf Coast has solidified its reputation for producing high-quality fresh seafood.
-bass	bass_corp	shark	1401	But there is still 45 minutes of TV to produce, and thus we hit the open waters to use the best technology yet to measure the speed of a shark.
-bass	bass_corp	tuna	8642	This was of Albocore tuna with cantaloupe (kind of melon), pomegranate, fried goat cheese and black olive ice cream.
-bass	bass_corp	boats	5371	My girls are little enough that boats are the best thing in the world, so even if we have no reason to visit the city, it’s a fun outing.
-bass	bass_corp	##ns	2474	Fry the prawns in medium heat for about 3 minutes.
+Form	Disambiguation	Found Token	Cosine Similarity	Context
+abstract	abstract_adj-nou	##istic	0.7746369603121808	May 28th at 12:18 pmThe minimalistic style is great, but I really like how Kenan Malik at Pandaemonium leveraged the Gridspace theme for his site.
+abstract	abstract_adj-nou	##ism	0.799452480220379	His books, inspired by philosophy, literature and Surrealism, come in varied graphic and stylistic forms.
+abstract	abstract_adj-nou	visual	0.8038898226974996	This enabled her to support herself while also secretly pursuing her craft as a visual artist, in earnest, for decades.
+abstract	abstract_adj-nou	minimal	0.8088214756174182	May 28th at 12:18 pmThe minimalistic style is great, but I really like how Kenan Malik at Pandaemonium leveraged the Gridspace theme for his site.
+abstract	abstract_adj-nou	artistic	0.8391013460850811	Graphic wrapping paper makes great looking artistic paper collages.
+abstract	abstract_adj-nou	##istic	0.8432970591569969	While the interplay between his inspirations is impressionistic (you have to mine interviews and press materials to explicitly uncover Barnes’ inspirations) the tension created by the music is easy to grasp.
+abstract	abstract_adj-nou	artist	0.8457057649461198	This enabled her to support herself while also secretly pursuing her craft as a visual artist, in earnest, for decades.
+abstract	abstract_adj-nou	conceptual	0.8465843364572654	Daniel Coyle has woven observations from brain research, behavioral research, and real-world training into a conceptual tapestry of genuine importance.
+abuse	abuse_nou	violence	0.704551517162344	It is our sincere hope that by increasing understanding and awareness of domestic violence we will improve societal responses to, and increase protection for, women and children affected by abuse.
+abuse	abuse_nou	violence	0.7263299839820584	McMurphy also reported that police arrested Smith in 2015 on domestic violence charges in Powell, Ohio.
+abuse	abuse_nou	violence	0.73360381337344	The latter documented widespread gender-based violence in the wake of the ; the former insisted that men can just lean into not being misogynists and we’ll all be fine.
+abuse	abuse_nou	harassment	0.7404381420776224	The German Theater and Orchestra Association has released a code of conduct that aims to prevent sexual harassment and abuses of power.
+abuse	abuse_vrb	having	0.8576675141857473	In the early 2000’s, Greer was accused of having an inappropriate relationship with a female teenager, but no charges were ever brought forward after the Manatee County Sheriff’s Office investigated the claims.
+abuse	abuse_vrb	violence	0.8789854759518821	McMurphy also reported that police arrested Smith in 2015 on domestic violence charges in Powell, Ohio.
+abuse	abuse_vrb	an	0.895735323568684	In the early 2000’s, Greer was accused of having an inappropriate relationship with a female teenager, but no charges were ever brought forward after the Manatee County Sheriff’s Office investigated the claims.
+abuse	abuse_vrb	drink	0.9005137544073091	But if they don’t drink the alcohol or they drink very little, they’ll probably be OK.
+abuses	abuses_nou	harassment	0.8160883065122615	The German Theater and Orchestra Association has released a code of conduct that aims to prevent sexual harassment and abuses of power.
+abuses	abuses_nou	violence	0.8329641137587606	He should consider economic concessions in exchange for help ridding his nation of mass drug violence.
+abuses	abuses_nou	##inatory	0.8363268143738307	So saying that we see certain abortions as discriminatory and we want to prohibit those.
+abuses	abuses_nou	abused	0.840713037891412	“You include an item (cheese) that requires beings to be sexually abused and babies murdered!
+abuses	abuses_nou	mistakes	0.8414159898046942	A functioning press and democracy require criticism, transparency, and consequences for journalistic mistakes.
+abuses	abuses_vrb	does	0.850105725182539	Phillips pays his workers at Penny’s $15 an hour, but does not provide health care because it would cause him to lose money.
+abuses	abuses_vrb	orders	0.8625904842227284	Oliver orders Malcolm to take Curtis, Samantha, Thea and Felicity to a plane somewhere on the island so they are kept out of harm.
+abuses	abuses_vrb	tries	0.8700310879037716	Fredrik lists an infamous Chelsea townhouse with a seller whose reputation for firing brokers precedes her; Ryan entrusts a Park Slope listing to a brand new agent with unorthodox methods; Steve tries a change in strategy with the Circa building.
+abuses	abuses_vrb	moves	0.8735488032954596	After his mother is hauled away for crimes such as having an "anti-revolutionary" electric fan, Niu moves in with Ling's family, then is taken away, "re-educated" and returns to denounce Ling's father and have him arrested.
+abuses	abuses_vrb	becomes	0.8826061577719286	Their business becomes predictable, which they and their shareholder love.
+abuses	abuses_vrb	takes	0.8866450889471773	He also takes another dig at Sarah Palin.
+abuses	abuses_vrb	##s	0.8876416830751627	As her blonde hair grows out, Kardashian West dyes it a hot pink color for a trip to Tokyo.
+abuses	abuses_vrb	##s	0.8924324609929328	In which a physics professor severely overthinks his daughter's science homework.
+bass	bass	guitar	0.8667006128201226	Meanwhile, slide guitar master Ry Cooder provides the famous soundtrack, setting scenes on the open road to his plaintive picking.
+bass	bass	guitarist	0.8774605667877096	I’ve had the pleasure of strumming a few songs with Brent and he’s a great guitarist, but this type of blues is something really special.
+bass	bass	guitar	0.8891875937479918	That’s Jack White on guitar.
+bass	bass	slide	0.89653712322426	Meanwhile, slide guitar master Ry Cooder provides the famous soundtrack, setting scenes on the open road to his plaintive picking.
+bass	bass	guitarist	0.8989600629121078	My favorite female guitarist is Sharon Isbin (sorry Renee!).
+bass	bass	##rum	0.932518956503473	I’ve had the pleasure of strumming a few songs with Brent and he’s a great guitarist, but this type of blues is something really special.
+bass	bass	##ming	0.9524169576432072	I’ve had the pleasure of strumming a few songs with Brent and he’s a great guitarist, but this type of blues is something really special.
+bass	bass	picking	0.9554230442968726	Meanwhile, slide guitar master Ry Cooder provides the famous soundtrack, setting scenes on the open road to his plaintive picking.
+bass	bass	harmony	0.9699656282705026	The group’s early harmony lessons, their Rastafarian beliefs, the music scene and the producers they worked with, and yes, the ganja they smoked are explained in sparse, accessible language.
+bass	bass_corp	fish	0.9289017009941953	Avoid ALL farmed fish and shrimp varieties – period – even if Seafood Watch says they’re a “Best Choice”.
+bass	bass_corp	fish	0.958049312351181	That freezer would store bag after bag of frozen fish caught by my father, lots of venison and beef that my family would trade for (or, in the case of venison, occasionally hunt for as a food source), frozen vegetables, and countless other food items.
+bass	bass_corp	fish	0.9661227713010928	Although it is generally unlawful to possess a bird, mammal, fish, amphibian or reptile that may not be legally sold, in a restaurant or other eating establishment, there are specific exceptions that would apply in your situation.
+bass	bass_corp	shrimp	0.9713535656142979	Avoid ALL farmed fish and shrimp varieties – period – even if Seafood Watch says they’re a “Best Choice”.
+bass	bass_corp	tuna	0.9746762292419046	He shows off his skills with sharp spears of fresh tuna, thick fillets of rich mackerel braised in a homemade soy-chili sauce, and chawanmushi, a silky egg and mushroom custard.
+bass	bass_corp	trout	0.9822262650069121	"If trout have difficulty recovering from a catch and are acting lethargic, it's probably time to call it quits for the day."
+bass	bass_corp	fish	0.9853595644527309	A mass of fish can be seen dashing out of his way in a desperate bid to escape being next.
+bass	bass_corp	##water	0.9931606938932158	I watched flies knife through the shade of undercut banks, perch on the surface of deep pools and teeter past the wake of submerged logs — pictures that are foreign to a saltwater angler.
+bass	bass_corp	catch	1.0012481465847756	"If trout have difficulty recovering from a catch and are acting lethargic, it's probably time to call it quits for the day."

@@ -372,11 +372,12 @@ if __name__ == "__main__":
     storage.build_search_index()
 
     with open(args.output_file, "w+", encoding="utf-8") as f:
+        f.write("Form\tDisambiguation\tFound Token\tCosine Similarity\tContext\n")
         for word, senses in words_with_embeddings.items():
             for sense, embedding in senses.items():
                 distances, neighbors, contexts = storage.direct_query(
                     average_embedding=embedding, word=word, k=args.top_k)
                 for d, w, c in zip(distances, neighbors, contexts):
-                    f.write(f"{word}\t{sense}\t{w}\t{c}\n")
+                    f.write(f"{word}\t{sense}\t{w}\t{d}\t{c.split('\t')[1]}\n")
 
 
